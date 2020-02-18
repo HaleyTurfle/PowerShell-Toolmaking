@@ -37,12 +37,6 @@
                     <TableRowEntry>
                         <TableColumnItems>
                             <TableColumnItem>
-                                <PropertyName>ComputerName</PropertyName>
-                            </TableColumnItem>
-                            <TableColumnItem>
-                                <Propertyname>OSVersion</Propertyname>
-                            </TableColumnItem>
-                            <TableColumnItem>
                                 <Propertyname>SPVersion</Propertyname>
                             </TableColumnItem>
                             <TableColumnItem>
